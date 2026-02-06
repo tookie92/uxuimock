@@ -54,6 +54,9 @@ function Hero() {
 
     console.log(result.data)
     setLoading(false)
+
+    //Navigate to project canvas
+    router.push(`/project/${projectId}`)
   }
   return (
     <div className='p-10 md:px-24 lg:px-48 xl:px-60 mt-8'>
