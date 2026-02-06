@@ -35,3 +35,7 @@ export const suggestions = [
     description: 'Interactive learning app for kids with rewards. Colorful UI and playful illustrations.'
   }
 ]
+
+
+
+
